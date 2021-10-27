@@ -2,7 +2,9 @@
 Nightscout for Google Home and Google Assistant.  
 Watch a [demonstration on YouTube](https://youtu.be/o7-T2IrDJ_A) (2m50s).  
 
-<iframe id="video3"width="560" height="315" src="https://www.youtube.com/embed/o7-T2IrDJ_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>![image](https://user-images.githubusercontent.com/83882497/139116882-daf04a77-b282-4d00-8c1f-7a75159067fe.png)
+<iframe id="video3" width="560" height="315" src="https://www.youtube.com/embed/o7-T2IrDJ_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+![image](https://user-images.githubusercontent.com/83882497/139116882-daf04a77-b282-4d00-8c1f-7a75159067fe.png)
 
 Formerly known as [Nightscout Status](https://github.com/nielsmaerten/nightscout-assistant).
 
