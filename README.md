@@ -49,6 +49,6 @@ For detailed tech docs, check [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 Gluco Check is licensed under the [MIT License](./LICENSE)  
 Copyright (c) 2021 
-Niels Maerten & David D'Amico
+Niels Maerten & David D'Amico & David Galloway
 
 [Privacy Policy](./gluco-check-common/strings/en-US/terms.md)
