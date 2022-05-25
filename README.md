@@ -6,7 +6,7 @@ Watch a [demonstration on YouTube](https://youtu.be/o7-T2IrDJ_A) (2m50s).
 
 <br>
 <iframe id="video3" width="560" height="315" src="https://www.youtube.com/embed/nKHbtwLI5K8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<Br>
 Formerly known as [Nightscout Status](https://github.com/nielsmaerten/nightscout-assistant).
 
 ## Getting started
