@@ -1,4 +1,5 @@
-# Welcome to Gluco Check
+# Welcome to Gluco Check<br>
+![nightscout Gluco Check _460_279jpg](https://user-images.githubusercontent.com/83882497/170355850-615b0bcd-eb6c-4622-9ea2-76695697b447.jpg)<br>
 Nightscout for Google Home and Google Assistant.  
 Watch a [demonstration on YouTube](https://youtu.be/o7-T2IrDJ_A) (2m50s).  
 
